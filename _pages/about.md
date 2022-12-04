@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I am a PhD student in the [School of Engineering and Applied Sciences (SEAS) at Harvard University](https://seas.harvard.edu/), affliated with the Natural Langauge Processing (NLP) group in [Harvard](https://nlp.seas.harvard.edu/)/[Cornell](https://rush-nlp.com/members/). I am fortunate to be advised by Professor [Alexander (Sasha) Rush](https://rush-nlp.com/), who is currently at Cornell University.
+I am a final-year PhD student in the [School of Engineering and Applied Sciences (SEAS) at Harvard University](https://seas.harvard.edu/), affliated with the Natural Langauge Processing (NLP) group in [Harvard](https://nlp.seas.harvard.edu/)/[Cornell](https://rush-nlp.com/members/). I am fortunate to be advised by Professor [Alexander (Sasha) Rush](https://rush-nlp.com/), who is currently at Cornell University.
 I also obtained an MA degree in Statistics from Harvard University.
 Prior to Harvard, I received my BS degree in EE from Tsinghua University.
 
