@@ -129,13 +129,15 @@ Suya Wu, **Enmao Diao**, Jie Ding, Vahid Tarokh. "Deep Clustering of Compressed 
 <span style="color:purple"> \[Compression\]</span>
 **(Acceptance Rate 18.7%)**
 -->
-unfinished 
+unfinished
 
-Jie Ding, **Enmao Diao**, Jiawei Zhou, Vahid Tarokh. "A Penalized Method for the Predictive Limit of Learning." <i>
+see my Google Scholar
+
+<!-- Jie Ding, **Enmao Diao**, Jiawei Zhou, Vahid Tarokh. "A Penalized Method for the Predictive Limit of Learning." <i>
 ICASSP 2018</i>.
 [\[PDF\]](https://ieeexplore.ieee.org/document/8461832)
 [\[Code\]](https://github.com/dem123456789/On-Statistical-Efficiency-in-Learning)
-<span style="color:orange"> \[Theory\]</span>
+<span style="color:orange"> \[Theory\]</span> -->
 
 Softwares
 ------
