@@ -129,7 +129,7 @@ Suya Wu, **Enmao Diao**, Jie Ding, Vahid Tarokh. "Deep Clustering of Compressed 
 <span style="color:purple"> \[Compression\]</span>
 **(Acceptance Rate 18.7%)**
 -->
-unfinished
+coming soon
 
 see my Google Scholar
 
@@ -142,7 +142,7 @@ ICASSP 2018</i>.
 Softwares
 ------
 
-unfinished
+coming soon
 
 Botnet detecion with graph neural networks (cyber security application):
 
