@@ -192,7 +192,7 @@ ICASSP 2018</i>.
 [\[Code\]](https://github.com/dem123456789/On-Statistical-Efficiency-in-Learning)
 <span style="color:orange"> \[Theory\]</span> -->
 
-Softwares
+Software Open Source
 ------
 
 Botnet detecion with graph neural networks (cybersecurity application) \
