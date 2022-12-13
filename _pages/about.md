@@ -129,9 +129,56 @@ Suya Wu, **Enmao Diao**, Jie Ding, Vahid Tarokh. "Deep Clustering of Compressed 
 <span style="color:purple"> \[Compression\]</span>
 **(Acceptance Rate 18.7%)**
 -->
-coming soon
 
-see my Google Scholar
+
+[Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue](https://aclanthology.org/2022.acl-long.110/) \
+Jiawei Zhou, Jason Eisner, Sam Thomson, Michael Newman, Emmanouil Antonios Platanios \
+ACL 2022: the 60th Annual Meeting of the Association for Computational Linguistics
+<span style="color:red">\[Outstanding Paper Award\]</span> \
+[\[Code\]](https://github.com/microsoft/online-semantic-parsing-for-latency-reduction)
+<!-- [\[PDF\]](https://aclanthology.org/2022.acl-long.110/) -->
+<!-- Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 1554–1576, Dublin, Ireland. 2022. -->
+
+[Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing](https://aclanthology.org/2021.emnlp-main.507/) \
+Jiawei Zhou, Tahira Naseem, Ramón Fernandez Astudillo, Young-Suk Lee, Radu Florian, and Salim Roukos \
+EMNLP 2021: the 2021 Conference on Empirical Methods in Natural Language Processing \
+[\[Code\]](https://github.com/IBM/transition-amr-parser)
+
+[AMR Parsing with Action-Pointer Transformer](https://aclanthology.org/2021.naacl-main.443/) \
+Jiawei Zhou, Tahira Naseem, RF Astudillo, and Radu Florian \
+NAACL 2021: the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies \
+[\[Code\]](https://github.com/IBM/transition-amr-parser/tree/action-pointer)
+
+[Improving Non-autoregressive Neural Machine Translation with Monolingual Data](https://aclanthology.org/2020.acl-main.171/) \
+Jiawei Zhou, and Phillip Keung \
+ACL 2020: the 58th Annual Meeting of the Association for Computational Linguistics \
+[\[Code\]](https://github.com/jzhou316/nar-mt-mono)
+
+[Automating Botnet Detection with Graph Neural Networks](https://arxiv.org/pdf/2003.06344.pdf) \
+Jiawei Zhou, Zhiying Xu, Alexander M. Rush, Minlan Yu \
+MLSys 2020 workshop: AutoML for Networking and Systems Workshop of MLSys 2020 Conference \
+[\[Code\]](https://github.com/harvardnlp/botnet-detection)
+
+<!-- [On Statistical Efficiency in Learning](https://arxiv.org/abs/2012.13307) \
+Jie Ding, Enmao Diao, Jiawei Zhou, Vahid Tarokh \
+TIT: IEEE Transactions on Information Theory, 2020 \
+[\[Code\]](https://github.com/dem123456789/On-Statistical-Efficiency-in-Learning) -->
+
+[Simple Unsupervised Summarization by Contextual Matching](https://aclanthology.org/P19-1503/) \
+Jiawei Zhou, and Alexander M. Rush \
+ACL 2019: the 57th Annual Meeting of the Association for Computational Linguistics \
+[\[Code\]](https://github.com/jzhou316/Unsupervised-Sentence-Summarization)
+
+[Asymptotically optimal prediction for time-varying data generating processes](https://people.duke.edu/~vt45/kinetic.pdf) \
+Jie Ding, Jiawei Zhou, and Vahid Tarokh \
+TIT: IEEE Transactions on Information Theory, 2018
+<!-- [\[PDF\]](https://ieeexplore.ieee.org/document/8543249) -->
+
+<!-- Dynamic zero-point attracting projection for time-varying sparse signal recovery \
+Jiawei Zhou, Laming Chen, and Yuantao Gu \
+ICASSP 2015: the 40th IEEE International Conference on Acoustics, Speech and Signal Processing -->
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=jJNjxd8AAAAJ&hl=en)
 
 <!-- Jie Ding, **Enmao Diao**, Jiawei Zhou, Vahid Tarokh. "A Penalized Method for the Predictive Limit of Learning." <i>
 ICASSP 2018</i>.
@@ -142,16 +189,22 @@ ICASSP 2018</i>.
 Softwares
 ------
 
-coming soon
+Botnet detecion with graph neural networks (cybersecurity application) \
+[\[Library\]](https://github.com/harvardnlp/botnet-detection)
+[\[Published Data\]](https://zenodo.org/record/3689089#.Y5iV7-zMI8Y)
 
-Botnet detecion with graph neural networks (cyber security application):
+AMR Parsing with neural transition-based approaches (state-of-the-art) \
+[\[Library\]](https://github.com/IBM/transition-amr-parser)
+<!-- [\[Data\]](https://amr.isi.edu/) -->
 
-[data and code](https://github.com/harvardnlp/botnet-detection)
+Dataflow graph (executable programs) generation for task-oriented dialogue \
+[\[Library\]](https://github.com/microsoft/online-semantic-parsing-for-latency-reduction#offline-parsing-train-a-programgraph-prediction-model)
+<!-- [\[Data\]](https://github.com/microsoft/task_oriented_dialogue_as_dataflow_synthesis/tree/master/datasets) -->
 
+Unsupervised text summarization \
+[\[Code\]](https://github.com/jzhou316/Unsupervised-Sentence-Summarization)
 
-Unsupervised text summarization:
-
-[code](https://github.com/jzhou316/Unsupervised-Sentence-Summarization)
+<!-- JPEG decoding -->
 
 <!---
 * <a href="https://arxiv.org/abs/2210.00720" style="text-decoration:none">**Complexity-Based Prompting for Multi-Step Reasoning.**</a>
