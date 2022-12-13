@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!
+**Hello!**
 
 I am a final-year Ph.D. student in the [School of Engineering and Applied Sciences (SEAS) at Harvard University](https://seas.harvard.edu/), affliated with the Natural Langauge Processing (NLP) group in [Harvard](https://nlp.seas.harvard.edu/)/[Cornell](https://rush-nlp.com/members/). I am fortunate to be advised by Professor [Alexander (Sasha) Rush](https://rush-nlp.com/), who is currently at Cornell University.
 I also obtained an M.A. degree in Statistics from Harvard University.
@@ -17,6 +17,9 @@ Prior to Harvard, I received my B.S. degree in EE from Tsinghua University.
 My primary research interests lie in the area of natural language processing and machine learning. I use deep learning and structured prediction methods for understanding language semantics in order to build intelligent systems that are more accurate, interpretable, efficient, and accessible.
 Practically, this involves a wide-range of generation problems, such as text, semantic representations, code and programs, reasoning and explanations, etc. with different resources.
 I am also broadly interested in learning and generation of structured data (such as graphs) related to/beyond language, and would love to collaborate on data-driven interdisciplinary applications.
+
+I am on the job market now.
+<!-- I am on the job market for both academic and industrial research roles :) -->
 
 Selected Publications
 ------
