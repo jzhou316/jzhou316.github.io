@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Hello!** :snowman: ❤️
+**Hello!** ☃️
+<!-- :snowman: ❤️ -->
 
 I am a final-year Ph.D. student in the [School of Engineering and Applied Sciences (SEAS) at Harvard University](https://seas.harvard.edu/), affliated with the Natural Langauge Processing (NLP) group in [Harvard](https://nlp.seas.harvard.edu/)/[Cornell](https://rush-nlp.com/members/). I am fortunate to be advised by Professor [Alexander (Sasha) Rush](https://rush-nlp.com/), who is currently at Cornell University.
 I also obtained an M.A. degree in Statistics from Harvard University.
