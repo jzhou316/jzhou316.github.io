@@ -19,7 +19,8 @@ My primary research interests lie in the area of natural language processing and
 Practically, this involves a wide-range of generation problems, such as text, semantic representations, code and programs, reasoning and explanations, etc. with different resources.
 I am also broadly interested in learning and generation of structured data (such as graphs) related to/beyond language, and would love to collaborate on data-driven interdisciplinary applications.
 
-I am on the job market now 🙉
+I am on the job market now 🙃
+<!-- 🙉 -->
 <!-- :scream: :open_mouth: :expressionless: :hear_no_evil: :pray: -->
 <!-- I am on the job market for both academic and industrial research roles :) -->
 
