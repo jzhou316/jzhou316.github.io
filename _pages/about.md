@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+[**Please visit my official homepage**](https://sites.harvard.edu/jzhou/) 
+
+
 **Hello!** ☃️
 <!-- :snowman: ❤️ -->
 
@@ -139,7 +142,7 @@ Suya Wu, **Enmao Diao**, Jie Ding, Vahid Tarokh. "Deep Clustering of Compressed 
 
 
 [Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue](https://aclanthology.org/2022.acl-long.110/) \
-Jiawei Zhou, Jason Eisner, Sam Thomson, Michael Newman, Emmanouil Antonios Platanios \
+Jiawei Zhou, Jason Eisner, Michael Newman, Emmanouil Antonios Platanios, Sam Thomson \
 ACL 2022: the 60th Annual Meeting of the Association for Computational Linguistics
 <span style="color:red">\[Outstanding Paper Award\]</span> \
 [\[Code\]](https://github.com/microsoft/online-semantic-parsing-for-latency-reduction)
