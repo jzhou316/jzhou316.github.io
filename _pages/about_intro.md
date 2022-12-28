@@ -12,7 +12,7 @@ redirect_from:
 
 [**Please visit my official homepage**](https://sites.harvard.edu/jzhou/) 
 
-<!-- 
+
 **Hello!** ☃️
 <!-- :snowman: ❤️ -->
 
@@ -228,4 +228,4 @@ Hao Peng,
 and
 <a href="https://allenai.org/team/tushark" style="text-decoration:none">Tushar Khot</a>.
 Preprint.
---> -->
+-->
