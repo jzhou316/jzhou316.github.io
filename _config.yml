@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jiawei Zhou"
   avatar           : "profile_pic_harvard_yard1.jpg"    # "profile.png"
-  bio              : "Ph.D. student at SEAS, Harvard University, [Please visit my official homepage](https://sites.harvard.edu/jzhou/)"
+  bio              : "Ph.D. student at SEAS, Harvard University, <a href="https://sites.harvard.edu/jzhou/">home</a>"
   location         : "Cambridge, MA"
   employer         :
   pubmed           :
