@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiawei Zhou"
   avatar           : "profile_pic_harvard_yard1.jpg"    # "profile.png"
-  bio              : "Ph.D. student at SEAS, Harvard University"
-  location         : "Cambridge, MA"
+  bio              : "Research Assistant Professor at TTIC"
+  location         : "Chicago, IL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=jJNjxd8AAAAJ&hl=en"
-  email            : "jzhou02@g.harvard.edu"
+  email            : "jzhou@ttic.edu"
   researchgate     : # "https://www.researchgate.net/profile/Jiawei-Zhou "# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
