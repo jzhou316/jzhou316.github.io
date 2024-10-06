@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Joe's Home - Please visit my official homepage"
-title_separator          : "-"
+title_separator          : "- I recently moved to Stony Brook University as an Assistant Professor. More to come."
 name                     : &name "Jiawei Zhou"
 description              : &description "personal description"
 url                      : https://sites.harvard.edu/jzhou  # https://jzhou316.github.io # https://joe-zhou.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
