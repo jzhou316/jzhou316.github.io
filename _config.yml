@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joe's Home - Please visit my official homepage"
-title_separator          : "- I recently moved to Stony Brook University as an Assistant Professor. More to come."
+title                    : "Joe's Home - Please visit my official homepage (I recently moved to Stony Brook University as an Assistant Professor. More to come)"
+title_separator          : "-"
 name                     : &name "Jiawei Zhou"
 description              : &description "personal description"
 url                      : https://sites.harvard.edu/jzhou  # https://jzhou316.github.io # https://joe-zhou.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiawei Zhou"
+  name             : "Jiawei Zhou, <firstname>.<lastname>.<first-positive-natural-number> AT stonybrook.edu"
   avatar           : "profile_pic_harvard_yard1.jpg"    # "profile.png"
-  bio              : "Assistant Professor at Stony Brook University | Previous Research Assistant Professor at TTIC"
+  bio              : "Assistant Professor at Stony Brook University | Previous Research Assistant Professor at TTIC, PhD from Harvard"
   location         : "Chicago, IL"
   employer         :
   pubmed           :
