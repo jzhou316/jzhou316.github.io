@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiawei Zhou, <firstname>.<lastname>.<first-positive-natural-number> AT stonybrook.edu"
+  name             : "Jiawei Zhou, <firstname>.<lastname>.<first-positive-natural-number> at stonybrook.edu"
   avatar           : "profile_pic_harvard_yard1.jpg"    # "profile.png"
   bio              : "Assistant Professor at Stony Brook University | Previous Research Assistant Professor at TTIC, PhD from Harvard"
   location         : "Chicago, IL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fgwOGB4AAAAJ"
-  email            : "jzhou@ttic.edu"
+  email            : "jiawei.zhou.1@stonybrook.edu"
   researchgate     : # "https://www.researchgate.net/profile/Jiawei-Zhou "# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
