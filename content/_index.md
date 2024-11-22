@@ -60,7 +60,7 @@ sections:
       text: |-
         ### Research
     
-        *My previous webpage is <a href="https://sites.harvard.edu/jzhou/">here</a> for reference of past research and projects.*
+        *My previous <a href="https://sites.harvard.edu/jzhou/">webpage is here</a> for reference of past research and projects.*
     
         My primary research interests lie in the areas of natural language processing (NLP) and machine learning (ML). The ultimate goal is to build general intelligent machines that can understand, interact, and help human beings on a wide variety of tasks with **trustworthiness** and **efficiency**. I am glad to see LLMs are bringing us one step closer 🤔
 
