@@ -1,2 +1,1 @@
-Personal website
-joezhouai.com
+Personal [website](joezhouai.com).
