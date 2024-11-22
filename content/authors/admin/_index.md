@@ -10,8 +10,8 @@ first_name: Jiawei (Joe)
 last_name: Zhou
 
 # Profile picture
-avatar: "avatar.jpg"
-# avatar: "profile_pic2.jpg"
+# avatar: "avatar.jpg"
+avatar: "profile_pic2.jpg"
 
 # Status emoji
 status:
