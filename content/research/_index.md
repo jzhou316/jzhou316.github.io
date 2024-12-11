@@ -27,6 +27,7 @@ sections:
         - Retrieval augmentation
         - Knowledge manipulation
         - Reliable generation
+        - Code and other structure generation
         - Long context
         - Information compression
         - Complex reasoning
