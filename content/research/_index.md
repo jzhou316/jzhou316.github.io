@@ -27,7 +27,7 @@ sections:
         - Retrieval augmentation
         - Knowledge manipulation
         - Reliable generation
-        - Code and other structure generation
+        - Code, structured generation, neuro-symbolic AI
         - Long context
         - Information compression
         - Complex reasoning
