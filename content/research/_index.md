@@ -23,7 +23,7 @@ sections:
         </p>
         {{< /spoiler >}}
 
-        Nowadays, my research centers around broad language applications and generative AI, where language includes natural language but can also be considered as any sequential information such as code, serialized visual representations, embodied actions, etc. I am motivated to better understand and improve state-of-the-art deep learning models such as (large) language models (LLMs) and multimodal models, on a variety of aspects such as efficiency, knowledge representation and memorization, factualness, security, fair evaluation, reasoning and planning. Some of the topics could be:
+        Nowadays, my research centers around broad language applications and generative AI, where language includes natural language but can also be considered as any sequential information such as code, serialized visual representations, embodied actions, etc. I am motivated to better understand and improve state-of-the-art deep learning models such as (large) language models (LLMs) and multimodal models, on a variety of aspects such as efficiency, knowledge representation and memorization, factualness, AI safety, fair evaluation, reasoning and planning. Some of the topics could be:
         - Retrieval augmentation
         - Knowledge manipulation
         - Reliable generation
