@@ -64,9 +64,15 @@ sections:
     
         My primary research interests lie in the areas of natural language processing (NLP) and machine learning (ML). The ultimate goal is to build general intelligent machines that can understand, interact, and help human beings on a wide variety of tasks with **trustworthiness** and **efficiency**. I am glad to see LLMs are bringing us one step closer 🤔
 
-        I am broadly interested in understanding and improving state-of-the-art deep learning models such as (large) language models (LLMs), on a variety of aspects such as efficiency, knowledge represention and manipulation, memorization, factualness, security, fair evaluation, reasoning and planning, as well as multimodality.
+        I am broadly interested in understanding and improving state-of-the-art deep learning models such as (large) language models (LLMs), on a variety of aspects such as efficiency, knowledge represention and manipulation, memorization, factualness, AI safety, fair evaluation, reasoning and planning, as well as multimodality.
         Check <a href="/research/">Research</a> for more details.
         Feel free to reach out to collaborate on any interesting problems.
+
+        Here is a general talk I gave in Nov 2024 at Stony Brook for the CS department research seminar to all students/faculty: **Generating from Generative ⸤Language⸣ Models** (<a href="https://uchicago.zoom.us/rec/share/bk0_5vurs0ArjiKDe7B9Ww6rwb-PS7GhjGVDCaoD2sHcJ9_Xa-ckXsAT5FQy11eE.dOKZqSwXgY9W_9V6">link</a>)
+
+        ### Recent Interests
+
+        **LLM + RL/reasoning**: I have been thinking a lot about LLM + RL, where RL may unlock new capabilities of LLMs or new ways of generation. There is still much to explore - I maintain an <a href="https://github.com/jzhou316/Post-DeepSeek-R1_LLM-RL">online project</a> of the fast progress in the space after DeepSeek R1 (with my personal bias).
 
     design:
       # css_style: "background-color: #f0f0f0; padding: 10px;"
