@@ -34,7 +34,11 @@ sections:
         - Inference efficiency
         - Multimodal AI (w/ generation, evaluation, training, and novel applications)
         - Etc.
-    
+
+        #### Recent Interests
+
+        **LLM + RL/reasoning**: I have been thinking a lot about LLM + RL, where RL may unlock new capabilities of LLMs or new ways of generation. There is still much to explore - I maintain an <a href="https://github.com/jzhou316/Post-DeepSeek-R1_LLM-RL">online project</a> of the fast progress in the space after DeepSeek R1 (with my personal bias).
+
         Please reach out to collaborate 😃
         I would also love to collaborate on data-driven interdisciplinary applications, such as applying core NLP/ML techniques in many problems such as in science, sociology, and engineering.
     
