@@ -37,7 +37,7 @@ sections:
 
         #### Recent Interests
 
-        **LLM + RL/reasoning**: I have been thinking a lot about LLM + RL, where RL may unlock new capabilities of LLMs or new ways of generation. There is still much to explore - I maintain an <a href="https://github.com/jzhou316/Post-DeepSeek-R1_LLM-RL">online project</a> of the fast progress in the space after DeepSeek R1 (with my personal bias).
+        **LLM + RL/reasoning**: I have been working (and thinking a lot) on LLM + RL lately, where RL may unlock new capabilities of LLMs or new ways of generation. There is still much to explore - I maintain an <a href="https://github.com/jzhou316/Post-DeepSeek-R1_LLM-RL">online project</a> of the fast progress in the space after DeepSeek R1 (with my personal bias).
 
         Here is a general talk I gave in Nov 2024 at Stony Brook for the CS department research seminar to all students and faculty - **Generating from Generative ⸤Language⸣ Models (<a href="https://uchicago.zoom.us/rec/share/bk0_5vurs0ArjiKDe7B9Ww6rwb-PS7GhjGVDCaoD2sHcJ9_Xa-ckXsAT5FQy11eE.dOKZqSwXgY9W_9V6">link</a>)** 
 
