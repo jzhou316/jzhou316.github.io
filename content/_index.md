@@ -72,7 +72,7 @@ sections:
 
         ### Recent Interests
 
-        **LLM + RL/reasoning**: I have been thinking a lot about LLM + RL, where RL may unlock new capabilities of LLMs or new ways of generation. There is still much to explore - I maintain an <a href="https://github.com/jzhou316/Post-DeepSeek-R1_LLM-RL">online project</a> of the fast progress in the space after DeepSeek R1 (with my personal bias).
+        **LLM + RL/reasoning**: I have been working (and thinking a lot) on LLM + RL lately, where RL may unlock new capabilities of LLMs or new ways of generation. There is still much to explore - I maintain an <a href="https://github.com/jzhou316/Post-DeepSeek-R1_LLM-RL">online project</a> of the fast progress in the space after DeepSeek R1 (with my personal bias).
 
     design:
       # css_style: "background-color: #f0f0f0; padding: 10px;"
