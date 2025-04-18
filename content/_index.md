@@ -68,7 +68,7 @@ sections:
         Check <a href="/research/">Research</a> for more details.
         Feel free to reach out to collaborate on any interesting problems.
 
-        Here is a general talk I gave in Nov 2024 at Stony Brook for the CS department research seminar to all students and faculty: **Generating from Generative ⸤Language⸣ Models** 
+        Here is a general talk I gave in Nov 2024 at Stony Brook for the CS department research seminar to all students and faculty - **Generating from Generative ⸤Language⸣ Models** 
 
         ### Recent Interests
 
