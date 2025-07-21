@@ -87,6 +87,10 @@ sections:
       subtitle: ''
       text: |-
 
+        ### Opportunities
+
+        If you are interested in postdoc positions starting 2025-2026 working with me, please apply directly to the <a href="https://ai.stonybrook.edu/">AI3 institute</a> official <a href="https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2502254">application portal</a>. Feel free to reach out for any questions.
+
         {{< spoiler text="Prospective Students" >}}
         {{% callout note %}}
         **Prospective Students:**
