@@ -16,11 +16,11 @@ sections:
       subtitle: ''
       text: |-
     
-        AMS 691.02: Frontiers in Large Language Models (upcoming spring 2025)
+        AMS 691.02: Frontiers in Large Language Models (spring 2025)
 
-        AMS 691.02: Natural Language Processing
+        AMS 691.02: Natural Language Processing (fall 2024)
 
-        TTIC 31190: Natural Language Processing
+        TTIC 31190: Natural Language Processing (fall 2023)
     
     design:
       # css_style: "background-color: #f0f0f0; padding: 10px;"
