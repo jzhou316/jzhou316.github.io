@@ -1,5 +1,10 @@
 ### Reference
 
+[(2024 May) Nearest Neighbor Speculative Decoding for LLM Generation and Attribution](https://arxiv.org/abs/2405.19325)
+
+- Could be related to CD-LM (pointed by reviewers), but it is less sophisticated
+- https://openreview.net/forum?id=Ni9kebsSTt&noteId=SFE8WT1fd7
+
 [(2024 Dec) Byte Latent Transformer: Patches Scale Better Than Tokens](https://arxiv.org/pdf/2412.09871)
 
 - Group bytes into patches
