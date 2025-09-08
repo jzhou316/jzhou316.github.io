@@ -12,3 +12,4 @@ Benefits:
 
 https://futurex-ai.github.io/
 
+[(2025 Aug) DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis](https://arxiv.org/abs/2508.20033?)
