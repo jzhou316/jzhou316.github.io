@@ -12,6 +12,8 @@ Benefits:
 
 [(2024 Mar) LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code](https://livecodebench.github.io/)
 
+[(2024 June) Automating Dataset Updates Towards Reliable and Timely Evaluation of Large Language Models](https://arxiv.org/pdf/2402.11894)
+
 [(2024 June) LiveBench: A Challenging, Contamination-Limited LLM Benchmark](https://livebench.ai/#/)
 
 [(2024 Dec) AntiLeakBench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/abs/2412.13670)
