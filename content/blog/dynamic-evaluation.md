@@ -21,3 +21,6 @@ Benefits:
 [(2025 Aug) DeepScholar-Bench: A Live Benchmark and Automated Evaluation for Generative Research Synthesis](https://arxiv.org/abs/2508.20033?)
 
 https://futurex-ai.github.io/
+
+
+[(2024 July) AutoBencher: Towards Declarative Benchmark Construction](https://arxiv.org/abs/2407.08351)
