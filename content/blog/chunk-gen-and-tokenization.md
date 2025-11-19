@@ -20,3 +20,13 @@
 - Dynamically merge input tokens (or segment tokens into chunks, with each chunk one representation), based on adjacent token similarities
 - Keep track of the token chunk segmentation "probabilities", used for passing gradients through the operations
 - Expand the number of tokens back in the final layer, by copying the tokens over to fill in positions
+
+
+[(2024, Feb) Break the Sequential Dependency of LLM Inference Using Lookahead Decoding](https://arxiv.org/abs/2402.02057)
+
+https://github.com/hao-ai-lab/LookaheadDecoding
+
+- *To Read* (Briefly looked at it)
+- **Good animation made in GIF** -> Need to make sth similar
+- Shares similarity with CD-LM as in using the matched current token to select possible n-grams for continuation
+
