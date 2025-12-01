@@ -24,3 +24,5 @@ https://futurex-ai.github.io/
 
 
 [(2024 July) AutoBencher: Towards Declarative Benchmark Construction](https://arxiv.org/abs/2407.08351)
+
+[(2024, Jul) Top Leaderboard Ranking = Top Coding Proficiency, Always? EvoEval: Evolving Coding Benchmarks via LLM](https://openreview.net/forum?id=zZa7Ke7WAJ)
