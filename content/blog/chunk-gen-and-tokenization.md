@@ -30,3 +30,9 @@ https://github.com/hao-ai-lab/LookaheadDecoding
 - **Good animation made in GIF** -> Need to make sth similar
 - Shares similarity with CD-LM as in using the matched current token to select possible n-grams for continuation
 
+Blog Post (Sept, 2025):
+https://x.com/linguist_cat/status/1971231846907498582
+
+There is no such thing as a tokenizer-free lunch
+https://huggingface.co/blog/catherinearnett/in-defense-of-tokenizers
+
