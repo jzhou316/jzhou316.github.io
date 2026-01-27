@@ -20,7 +20,7 @@ sections:
     
         AMS 691.02: Frontiers in Large Language Models (spring 2025)
 
-        AMS 691.02: Natural Language Processing (fall 2024)
+        AMS 691.02: Natural Language Processing (fall 2024, fall 2025)
 
         TTIC 31190: Natural Language Processing (fall 2023)
     
