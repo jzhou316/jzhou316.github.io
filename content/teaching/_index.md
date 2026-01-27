@@ -16,6 +16,8 @@ sections:
       subtitle: ''
       text: |-
     
+        [AMS 691.01: Foundations and Frontiers of Large Language Models](https://joezhouai.com/llm-course-26/) (spring 2026)
+    
         AMS 691.02: Frontiers in Large Language Models (spring 2025)
 
         AMS 691.02: Natural Language Processing (fall 2024)
