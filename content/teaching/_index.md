@@ -16,7 +16,7 @@ sections:
       subtitle: ''
       text: |-
     
-        [AMS 691.01: Foundations and Frontiers of Large Language Models](https://joezhouai.com/llm-course-26/) (spring 2026)
+        <a href="https://joezhouai.com/llm-course-26/">AMS 691.01: Foundations and Frontiers of Large Language Models</a> (spring 2026)
     
         AMS 691.02: Frontiers in Large Language Models (spring 2025)
 
