@@ -87,7 +87,7 @@ sections:
       subtitle: ''
       text: |-
     
-        ### Selected Engagement & Recognition
+        #### Selected Engagement & Recognition
 
         - Amazon Research Award, 2025. (<a href="https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025">Announcement</a> and <a href="https://news.stonybrook.edu/university/stony-brook-researchers-working-to-make-ai-more-efficient-at-complex-problems/">news</a>)
         - Best Student Paper Award, IEEE ASRU, 2025. (<a href="https://www.linkedin.com/posts/ju-chieh-chou-79853688_happy-to-receive-the-best-student-paper-award-activity-7404661167174197248-muTS">post</a>, <a href="https://jjery2243542.github.io/flowslm.github.io/">paper</a>)
