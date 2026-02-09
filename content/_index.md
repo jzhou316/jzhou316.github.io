@@ -45,6 +45,7 @@ sections:
         Previously I was a Research Assistant Professor at the <a href="https://www.ttic.edu/">Toyota Technological Institute at Chicago (TTIC)</a>, situated on the University of Chicago <a href="https://x.com/TTIC_Connect/status/1696932798840570113?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet">campus</a>.
         I obtained my Ph.D. from the <a href="https://seas.harvard.edu/">School of Engineering and Applied Sciences (SEAS) at Harvard University</a>, affiliated with the Natural Language Processing (NLP) group at <a href="https://nlp.seas.harvard.edu/">Harvard</a>/<a href="https://rush-nlp.com/members/">Cornell</a>. I am fortunate to be advised by Professor <a href="https://rush-nlp.com/">Alexander (Sasha) Rush</a>, currently at Cornell University. I have also worked with Professor <a href="https://minlanyu.seas.harvard.edu/">Minlan Yu</a> at Harvard on ML applications in networks and cybersecurity.
         I obtained an M.A. degree in <a href="https://statistics.fas.harvard.edu/">Statistics</a> from Harvard University. Prior to Harvard, I received my B.S. degree in EE from Tsinghua University.
+        Here is my non-updated <a href="https://drive.google.com/file/d/1Q804GeU1-40FPqt-fX75r9BAZlfYW_SL/view?usp=sharing">CV</a> (as of summer 2025).
 
     design:
       # css_style: "background-color: #f0f0f0; padding: 10px;"
