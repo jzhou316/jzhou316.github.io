@@ -93,6 +93,7 @@ sections:
         - Amazon Research Award, 2025. (<a href="https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025">Announcement</a> and <a href="https://news.stonybrook.edu/university/stony-brook-researchers-working-to-make-ai-more-efficient-at-complex-problems/">news story</a>)
         - Best Student Paper Award, IEEE ASRU, 2025. (<a href="https://www.linkedin.com/posts/ju-chieh-chou-79853688_happy-to-receive-the-best-student-paper-award-activity-7404661167174197248-muTS">student post</a>, <a href="https://jjery2243542.github.io/flowslm.github.io/">paper</a>)
         - Organizing <a href="https://sites.google.com/view/speech-ai-ttic-2025/home">TTIC Summer Workshop on Foundations of Speech and Audio Foundation Models</a>, Sept 2025. (Some recorded talks are <a href="https://www.youtube.com/playlist?list=PLPnm2EnTzVsUT3NlZSirof-HYVQfm4ta8">here</a>)
+        - Excellence/Outstanding Teaching Award, Fall 2024, Fall 2025
         - Organizing <a href="https://sites.google.com/view/multimodal-ai-ttic-2024/home">TTIC Summer Workshop on Multimodal AI</a>, Aug, 2024.
         - Outstanding Paper Award, ACL, 2022. (<a href="https://aclanthology.org/2022.acl-long.110/">paper</a>, <a href="https://github.com/microsoft/online-semantic-parsing-for-latency-reduction">official code</a>)
 
