@@ -112,7 +112,9 @@ sections:
 
         ### Opportunities
 
-        If you are interested in postdoc positions starting 2025-2026 working with me, please apply directly to the <a href="https://ai.stonybrook.edu/">AI3 institute</a> official <a href="https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2502254">application portal</a>. Feel free to reach out for any questions.
+        If you are interested in postdoc positions starting 2026-2027 working with me or the general AI community, please apply directly to the <a href="https://ai.stonybrook.edu/">AI3 institute</a> official <a href="https://stonybrooku.taleo.net/careersection/2/jobdetail.ftl?job=2504721">application portal</a> (deadline: Jul 12, 2026). Feel free to reach out for any questions.
+
+        AI3 is also inviting applications for a large inaugural cohort of the AI Innovation Research Assistant Professor, which is institutional funded with generous startup packages for research support for a least two years. Please directly apply <a href="https://apply.interfolio.com/183806">here</a>.
 
         {{< spoiler text="Prospective Students" >}}
         {{% callout note %}}
