@@ -47,6 +47,8 @@ sections:
         I obtained an M.A. degree in <a href="https://statistics.fas.harvard.edu/">Statistics</a> from Harvard University. Prior to Harvard, I received my B.S. degree in EE from Tsinghua University.
         Here is my non-updated <a href="https://drive.google.com/file/d/1Q804GeU1-40FPqt-fX75r9BAZlfYW_SL/view?usp=sharing">CV</a> (as of summer 2025).
 
+        (site last updated: Fall 2024)
+    
     design:
       # css_style: "background-color: #f0f0f0; padding: 10px;"
       # css_class: "markdown-wide"        # this does not seem to work
@@ -54,6 +56,8 @@ sections:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['8px', '0', '10px', '0']
+
+    
   - block: markdown-wide
     content:
       title:
